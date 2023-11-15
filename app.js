@@ -13,3 +13,7 @@ const addCourse = (course) => {
     return course;
 }
 
+const removeCourse = (course) => {
+    return true
+}
+
