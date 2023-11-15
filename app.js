@@ -1,5 +1,8 @@
 const userLogin = (user) => {
-    return true;
+    if(username === "sara"){
+        return true
+    }
+    return false;
 }
 
 const register = (user) => {
