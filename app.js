@@ -9,3 +9,14 @@ const register = (user) => {
 const getMe = (user) => {
     return user;
 }
+const addCourse = (course) => {
+    return course;
+}
+
+const removeCourse = (course) => {
+    return true
+}
+
+const addProductToBasket = () => {
+    return true
+}
