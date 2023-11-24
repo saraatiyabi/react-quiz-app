@@ -22,5 +22,5 @@ const addProductToBasket = () => {
 }
 
 const testFunc = () => {
-    return true;
+    return false;
 }
