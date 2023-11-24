@@ -18,5 +18,5 @@ const removeCourse = (course) => {
 }
 
 const addProductToBasket = () => {
-    return true
+    return false
 }
