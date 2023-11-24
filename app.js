@@ -24,3 +24,7 @@ const addProductToBasket = () => {
 const testFunc = () => {
     return false;
 }
+
+const removeComment = () => {
+    return false;
+}
