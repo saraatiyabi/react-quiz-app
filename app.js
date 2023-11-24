@@ -20,3 +20,7 @@ const removeCourse = (course) => {
 const addProductToBasket = () => {
     return false
 }
+
+const testFunc = () => {
+    return true;
+}
