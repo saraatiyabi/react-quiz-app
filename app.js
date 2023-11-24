@@ -21,10 +21,6 @@ const addProductToBasket = () => {
     return false
 }
 
-const testFunc = () => {
-    return false;
-}
-
 const removeComment = () => {
     return false;
 }
