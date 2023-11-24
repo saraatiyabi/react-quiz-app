@@ -1,5 +1,8 @@
 const userLogin = (user) => {
-    return true;
+    if(username === "sara"){
+        return true
+    }
+    return false;
 }
 
 const register = (user) => {
@@ -17,10 +20,3 @@ const removeCourse = (course) => {
     return true
 }
 
-const addProductToBasket = () => {
-    return false
-}
-
-const removeComment = () => {
-    return false;
-}
