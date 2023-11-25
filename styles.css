@@ -17,3 +17,9 @@ h1 {
     font-weight: bold;
     border: 1px solid gray;
 }
+
+h2{
+    font-size: 12px;
+    color: darkblue;
+    background-color: yellow;
+}
