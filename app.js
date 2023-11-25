@@ -20,3 +20,6 @@ const removeCourse = (course) => {
     return true
 }
 
+const editCourse = () => {
+    return course.name
+}
