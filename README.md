@@ -6,7 +6,8 @@
 ___________________________
 
 ## code
-Inline `code`
+Inline `code` 
+hello `world`
 
 _____________________________
 
@@ -31,7 +32,17 @@ _________________________________
 
 
 ____________________________________
-
+## js code
 ```javascript
-document.querySelector("#myElem").value = "Sara
+document.querySelector("#myElem").value = "Sara"
 ```
+
+________________________________________
+## links
+[sabzlearn git course](https://sabzlearn.ir/course/js-exp-project/)
+
+_________________________________________
+## image
+![image](https://sabzlearn.ir/wp-content/themes/sabzlearn-theme/images/svgs/boy-dark.svg)
+
+__________________________________________
